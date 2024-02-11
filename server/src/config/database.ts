@@ -1,0 +1,1 @@
+export const mongoURI = process.env.MONGO_URL || "mongodb+srv://devkhustle:89238923@cluster0.xlblv.mongodb.net/";
